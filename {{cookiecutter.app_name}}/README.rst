@@ -1,5 +1,5 @@
 ===============================
-{{ cookiecutter.project_name }}
+{{ cookiecutter.app_name }}
 ===============================
 
 .. image:: https://img.shields.io/travis/{{ cookiecutter.github_username }}/{{ cookiecutter.app_name }}.svg
